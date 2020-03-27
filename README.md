@@ -22,7 +22,7 @@ Then, Click on "Edit Action"
   
 ![Step3.5](/Files/Step3.5-EditConfigTrigger.PNG)  
   
-Click on "Use Visual Guide for placement" and drag the image to where you want it to be 
+Click on "Use Visual Guide for placement" and drag the image to where you want it to be  
 Then, Right-Click on the image and "save changes"  
   
 ![Step3.6](/Files/Step3.6-EditConfigTrigger.PNG)  
