@@ -1,7 +1,7 @@
 How to setup Raid Buffs  
 
 Step 1 : Make a Startup Folder in Local Triggers  
-Add image here  
+![Step 1](/Files/Step1-StartupFolder.PNG)
   
 Then, Select it as startup in the config  
 (Top right -> Option -> Edit Config)  
