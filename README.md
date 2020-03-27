@@ -12,12 +12,12 @@ Also Disable the one in the remote triggers (repo)
 ![Step2](Files/Step2-Copy%26Paste.PNG)
   
 Step 3 : Edit the Aura Config Trigger (in the startup folder)  
-Add Image  
+![Step3](/Files/Step3-EditConfigTrigger.PNG)
 Then, Click on "Edit Action"  
-Add Image  
+![Step3.5](/Files/Step3.5-EditConfigTrigger.PNG)
 Click on "Use Visual Guide for placement" and drag the image to where you want it to be 
 Then, Right-Click on the image and "save changes"  
-Add Image  
+![Step3.6](/Files/Step3.6-EditConfigTrigger.PNG)
 Save Changes a couple times  
 At this point, you should see the images flash for a second.
 
