@@ -5,11 +5,11 @@ Step 1 : Make a Startup Folder in Local Triggers
   
 Then, Select it as startup in the config  
 (Top right -> Option -> Edit Config)  
-Add Image here  
+![Step1.5](/Files/Step1.5-StartupFolder.PNG)
 
 Step 2 : Copy & Paste the `AA - Aura Config` trigger in the startup folder  
 Also Disable the one in the remote triggers (repo)  
-Add Image here  
+![Step2](Files/Step2-Copy%26Paste.PNG)
   
 Step 3 : Edit the Aura Config Trigger (in the startup folder)  
 Add Image  
